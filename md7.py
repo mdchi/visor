@@ -38,7 +38,7 @@ while True:
 
     os.system("cls")
     
-    #os.system("start chrome https://mdchi.github.io/md7/")  #investing noticias
+    #os.system("start chrome https://mdchi.github.io/visor/noticias.html")  #investing noticias
     #os.system("start chrome https://coinmarketcap.com/watchlist/665296ac3a9fc91e643242c9/")   #activo
     #os.system("start chrome https://coinmarketcap.com/watchlist/6623cb7071fbad387354cd39/")  #analisis1
     #os.system("start chrome https://coinmarketcap.com/watchlist/662100fee5333e1cf1bd47ce/")  #analisis2
