@@ -45,7 +45,8 @@ while True:
     #os.system("start chrome https://coinmarketcap.com/watchlist/67191b3ad1a6dc6ec8433700/")   #analisis3
     #os.system("start chrome https://dolarhoy.com/historico-dolar-blue")  #dolarhoy
     #os.system("start chrome https://bingx.com/es/CopyTrading/1093972264653701125")  #bingx
-    os.system("start chrome https://bingx.com/es/CopyTrading/1093972264653701125")  #bingx anti vitalik
+    #os.system("start chrome https://bingx.com/es/CopyTrading/1093972264653701125")  #bingx anti vitalik
+    os.system("start chrome https://mdchi2.github.io/monitor/")  #monitor
     
     time.sleep(10)
     wifi('off')
